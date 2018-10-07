@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: vivianamarquez@live.com
     phone: +1 561 480 6959
-    website: http://vivianamarquez.github.io #do not add http://
+    website: vivianamarquez.github.io #do not add http://
     linkedin: vivianamarquez
     github: vivianamarquez
     gitlab:
@@ -26,23 +26,23 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Bilingual proficiency
+        #level: Bilingual proficiency
 
       - idiom: Spanish
-        level: Native
+        #level: Native
 
       - idiom: Portuguese
-        level: Professional
+        #level: Professional
         
-    interests:
-      - item: Climbing
-        link:
+    #interests:
+      #- item: Climbing
+        #link:
 
-      - item: Snowboarding
-        link:
+      #- item: Snowboarding
+        #link:
 
-      - item: Cooking
-        link:
+      #- item: Cooking
+        #link:
 
 career-profile:
     title: Career Profile
