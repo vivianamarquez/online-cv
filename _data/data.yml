@@ -22,6 +22,7 @@ sidebar:
     twitter: '@vivmarquez'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    instagram: vivianamarquez
 
     languages:
       - idiom: English
@@ -55,9 +56,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Data Science
+      university: University of San Francisco
+      time: June 2019 (Expected graduation)
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
