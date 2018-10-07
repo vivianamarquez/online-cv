@@ -56,8 +56,8 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MS in Data Science
-      university: University of San Francisco
+    - degree: MSc in Data Science
+      university: University of San Francisco (San Francisco, CA, USA)
       time: Expected June 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -69,7 +69,7 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BS in Mathematics
+    - degree: BSc in Mathematics
       university: Konrad Lorenz Fundación Universitaria (Bogotá, Colombia)
       time: 2013 - 2018
       details: |
