@@ -108,8 +108,7 @@ education:
       university: Universidade de São Paulo (São Paulo, Brazil)
       time: 2014
       details: |
-        Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities.
-            Relevant courses:
+        Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities. Relevant courses:
           - Probability and Statistics
           - Journalism in Science and Astronomy
 
@@ -161,23 +160,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: SQL
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Premiere Pro
+        level: 90%
 
 footer: >
     <i class="fas fa-heart"></i><a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">.</a>
