@@ -105,17 +105,13 @@ education:
           - Bullet point 
           
     - degree: Exchange Student 
-      university: Universidade de São Paulo (São Paulo, Brasil)
+      university: Universidade de São Paulo (São Paulo, Brazil)
       time: 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities.
+            Relevant courses:
+          - Probability and Statistics
+          - Journalism in Science and Astronomy
 
 experiences:
     - role: Lead Developer
