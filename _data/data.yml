@@ -58,7 +58,7 @@ career-profile:
 education:
     - degree: MS in Data Science
       university: University of San Francisco
-      time: June 2019 (Expected graduation)
+      time: Expected June 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +69,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS in Mathematics
+      university: Konrad Lorenz Fundación Universitaria (Bogotá, Colombia)
+      time: 2013 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
