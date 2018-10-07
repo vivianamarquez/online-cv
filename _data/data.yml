@@ -37,26 +37,22 @@ sidebar:
       - idiom: Russian
         level: Elementary
         
-    #interests:
-      #- item: Climbing
+    interests:
+      - item: Travel
         #link:
 
-      #- item: Snowboarding
+      - item: Science outreach
         #link:
 
-      #- item: Cooking
+      - item: Writing
         #link:
+        
+      - item: Climbing
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+#career-profile:
+    #title: Career Profile
+    #summary: |
+      #S
 
 education:
     - degree: MSc in Data Science
@@ -88,6 +84,32 @@ education:
     - degree: AA in Journalism and Media Production
       university: Colegio Superior de Telecomunciaciones (Bogotá, Colombia)
       time: 2014 - 2018
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point 
+          
+    - degree: Math in Moscow Study Abroad Program
+      university: National Research University Higher School of Economics (Moscow, Russia)
+      time: 2016
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point 
+          
+    - degree: Exchange Student 
+      university: Universidade de São Paulo (São Paulo, Brasil)
+      time: 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
