@@ -72,11 +72,11 @@ education:
       university: Konrad Lorenz Fundación Universitaria (Bogotá, Colombia)
       time: 2013 - 2018
       details: |
-        Graduated with honors, top of the class. 
+        Graduated with honors, top of the class. Relevant Coursework:
 
-          - Pure Mathematics: Combinatorics, Graph Theory, Discrete Mathematics.
-          - Applied Mathematics: Modeling and Simulation, Numerical Methods.
-          - Programming: Data Structures, Data Bases, Programming in C++, Programming in Java.
+          - _Pure Mathematics_: Combinatorics, Graph Theory, Discrete Mathematics.
+          - _Applied Mathematics_: Modeling and Simulation, Numerical Methods.
+          - _Programming_: Data Structures, Data Bases, Programming in C++, Programming in Java.
           
     - degree: AA in Journalism and Media Production
       university: Colegio Superior de Telecomunciaciones (Bogotá, Colombia)
