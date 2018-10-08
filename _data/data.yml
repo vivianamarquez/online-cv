@@ -52,21 +52,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a student of Master in Data Science program at the University of San Francisco and anticipate obtaining my degree by June 2019.
+      I am a student of Master of Science in Data Science program at the University of San Francisco and anticipate obtaining my degree by June 2019. I have a background in Mathematics, Journalism, and Media Production.
 
 education:
     - degree: MSc in Data Science
       university: University of San Francisco (San Francisco, CA, USA)
       time: Expected June 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+         Rigorous curriculum focused on mathematical and computational techniques, 
+         and communicating solutions in a clear and creative fashion. Revlevant Coursework:
 
-          - Bullet point
-          - Bullet point 
+          - Data Acquistion
+          - Linear Regression Analysis
+          - Python, R, SQL
 
     - degree: BSc in Mathematics
       university: Konrad Lorenz Fundación Universitaria (Bogotá, Colombia)
@@ -82,14 +80,11 @@ education:
       university: Colegio Superior de Telecomunciaciones (Bogotá, Colombia)
       time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Relevant Coursework:
 
-          - Bullet point
-          - Bullet point 
+          - Marketing and Publicity
+          - Radio Broadcasting and TV Production
+          - Script Writing
           
     - degree: Math in Moscow Study Abroad Program
       university: National Research University Higher School of Economics (Moscow, Russia)
@@ -101,14 +96,15 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
+          - Computability and Complexity
+          - Advanced Linear Algebra
+          - Russian Language
           
     - degree: Exchange Student 
       university: Universidade de São Paulo (São Paulo, Brazil)
       time: 2014
       details: |
-        Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities. Relevant Courseswork:
+        Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities. Classes were taken in Portuguese. Relevant Courseswork:
           - Probability and Statistics
           - Journalism in Science and Astronomy
 
