@@ -100,53 +100,31 @@ education:
       university: Universidade de São Paulo (São Paulo, Brazil)
       time: 2014
       details: |
-        Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities. Classes were taken in Portuguese. Relevant Courseswork:
+        Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities. Classes were taken in Portuguese. Relevant Coursework:
           - Probability and Statistics
           - Journalism in Science and Astronomy
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Undergraduate Researcher
+      time: June 2017 - August 2017
+      company: Mathematical Sciences Research Institute, Berkeley, CA, USA.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Expanded current evidence on existing conjectures about the maximal number of roots of polynomials 
+        over a prime field using MSRI's cloud computing system.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Radio Host adn Producer
+      time: 2012 - 2013
+      company: 1190 AM La Primera, West Palm Beach, FL, USA.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Created, produced, and hosted _"La Revolución Tecnológica"_, 
+        the first radio show targeted to teenagers and young adults in Palm Beach County.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Computer Consultant
+      time: 2011 - 2012
+      company: AGS Health Promotion, Lake Worth, FL, USA.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Created different websites for the company and instructed the CEOs on how to manage their own content. 
+        Developed different media pieces (logos, videos, images) for promotion. Managed social networks.
 
 skills:
     title: Skills
