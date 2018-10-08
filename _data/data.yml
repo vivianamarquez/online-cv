@@ -60,7 +60,8 @@ education:
       time: Expected June 2019
       details: |
          Accelerated one-year-program with a rigorous curriculum focused on mathematical and computational techniques, 
-         and communicating solutions in a clear and creative fashion. Relevant Coursework:
+         and communicating solutions in a clear and creative fashion.
+         <br>Relevant Coursework:
 
           - Data Acquisition
           - Linear Regression Analysis
@@ -70,7 +71,9 @@ education:
       university: Konrad Lorenz Fundación Universitaria (Bogotá, Colombia)
       time: 2013 - 2018
       details: |
-        Graduated with honors, top of the class. **Dissertation thesis**: A new non-recursive formula for compositions of n with parts less or equal than k (Awarded Best undergraduate poster at Latinx Math by IPAM-UCLA, CA, USA). Relevant Coursework:
+        Graduated with honors, top of the class.
+        <br>**Dissertation thesis**: A new non-recursive formula for compositions of n with parts less or equal than k (Research recognized as _best undergraduate poster_ at Latinx Math by IPAM-UCLA, CA, USA).
+        <br>Relevant Coursework:
 
           - _Pure Mathematics_: Combinatorics, Graph Theory, Discrete Mathematics.
           - _Applied Mathematics_: Modeling and Simulation, Numerical Methods.
@@ -81,8 +84,9 @@ education:
       time: 2014 - 2018
       details: |
         Graduated top of the class and received the award _"Best Female Voice of the Graduating Class."_ 
-        **Dissertation project**: Marketing sales plan, launch, and production of the series 
-        [Coffee Man](https://www.youtube.com/watch?v=_700HvXVSoE&list=PL9sbQ03zhOKe-Itsg8c1Gle0aUYrnXNAx). Relevant Coursework:
+        <br>**Dissertation project**: Marketing sales plan, launch, and production of the series 
+        [Coffee Man](https://www.youtube.com/watch?v=_700HvXVSoE&list=PL9sbQ03zhOKe-Itsg8c1Gle0aUYrnXNAx). 
+        <br>Relevant Coursework:
 
           - Marketing and Publicity
           - Radio Broadcasting and TV Production
@@ -92,7 +96,8 @@ education:
       university: National Research University Higher School of Economics (Moscow, Russia)
       time: 2016
       details: |
-        A semester of studying mathematics the Russian way. Relevant Coursework:
+        A semester of studying mathematics the Russian way.
+        <br>Relevant Coursework:
 
           - Computability and Complexity
           - Advanced Linear Algebra
@@ -102,7 +107,8 @@ education:
       university: Universidade de São Paulo (São Paulo, Brazil)
       time: 2014
       details: |
-        Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities. Classes were taken in Portuguese. Relevant Coursework:
+        Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities. Classes were taken in Portuguese.
+        <br> Relevant Coursework:
           - Probability and Statistics
           - Journalism in Science and Astronomy [(Sample)](http://explainingtheuniverse.blogspot.com/2014/11/brazil-much-more-than-soccer.html)
 
