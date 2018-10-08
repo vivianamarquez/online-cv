@@ -59,7 +59,7 @@ education:
       university: University of San Francisco (San Francisco, CA, USA)
       time: Expected June 2019
       details: |
-         Rigorous curriculum focused on mathematical and computational techniques, 
+         Accelerated one-year-program with rigorous curriculum focused on mathematical and computational techniques, 
          and communicating solutions in a clear and creative fashion. Relevant Coursework:
 
           - Data Acquisition
@@ -106,7 +106,7 @@ education:
 
 experiences:
     - role: Undergraduate Researcher
-      time: June 2017 - August 2017
+      time: 2017
       company: Mathematical Sciences Research Institute, Berkeley, CA, USA.
       details: |
         Expanded current evidence on existing conjectures about the maximal number of roots of polynomials 
