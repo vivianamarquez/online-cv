@@ -70,7 +70,7 @@ education:
       university: Konrad Lorenz Fundación Universitaria (Bogotá, Colombia)
       time: 2013 - 2018
       details: |
-        Graduated with honors, top of the class. Relevant Coursework:
+        Graduated with honors, top of the class. Dissertation thesis: A new non-recursive formula for compositions of $n$ with parts $\leq$ k. Relevant Coursework:
 
           - _Pure Mathematics_: Combinatorics, Graph Theory, Discrete Mathematics.
           - _Applied Mathematics_: Modeling and Simulation, Numerical Methods.
@@ -119,7 +119,7 @@ experiences:
       company: 1190 AM La Primera, West Palm Beach, FL, USA.
       details: |
         Created, produced, and hosted _"La Revolución Tecnológica,"_
-        the first radio show targeted to teenagers and young adults in Palm Beach County.
+        the first radio show to target teenagers and young adults in Palm Beach County.
 
     - role: Computer Consultant
       time: 2011 - 2012
