@@ -59,7 +59,7 @@ education:
       university: University of San Francisco (San Francisco, CA, USA)
       time: Expected June 2019
       details: |
-         Accelerated one-year-program with rigorous curriculum focused on mathematical and computational techniques, 
+         Accelerated one-year-program with a rigorous curriculum focused on mathematical and computational techniques, 
          and communicating solutions in a clear and creative fashion. Relevant Coursework:
 
           - Data Acquisition
@@ -102,7 +102,7 @@ education:
       details: |
         Awarded _Iberoamerican Scholarship for Undergraduates to Study Abroad_ by Santander Universities. Classes were taken in Portuguese. Relevant Coursework:
           - Probability and Statistics
-          - Journalism in Science and Astronomy
+          - Journalism in Science and Astronomy [Sample](http://explainingtheuniverse.blogspot.com/2014/11/brazil-much-more-than-soccer.html)
 
 experiences:
     - role: Undergraduate Researcher
