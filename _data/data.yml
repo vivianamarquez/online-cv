@@ -53,7 +53,7 @@ career-profile:
     title: Career Profile
     summary: |
       I am a student of Master of Science in Data Science program at the University of San Francisco and anticipate obtaining my degree by June 2019. I have a background in Mathematics, Journalism, and Media Production.
-      Test<a href="https://info.flagcounter.com/0yXK" target="_blank"><img src="https://s01.flagcounter.com/map/0yXK/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0" size="10"></a>
+      <br><a href="https://info.flagcounter.com/0yXK" target="_blank"><img src="https://s01.flagcounter.com/map/0yXK/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0" height="10%"></a>
 
 education:
     - degree: MSc in Data Science
