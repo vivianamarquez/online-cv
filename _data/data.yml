@@ -23,6 +23,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     instagram: vivianamarquez
+    medium: vivianamarquez
 
     languages:
       - idiom: English
@@ -64,8 +65,9 @@ education:
          and communicating data science solutions in a clear and creative fashion.
          <br>_Relevant Coursework_:
 
-          - Data Acquisition
-          - Linear Regression Analysis
+          - Machine Learning
+          - Data Acquisition, Distributed Computing
+          - Linear Regression Analysis, Time Series Analysis
           - Python, R, SQL
 
     - degree: BSc in Mathematics
