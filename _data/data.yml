@@ -72,9 +72,8 @@ education:
       university: Konrad Lorenz Fundación Universitaria (Bogotá, Colombia)
       time: 2013 - 2018
       details: |
-        Graduated with honors, top of the class. Heavily involved in extracurricular activities, 
-        which include but are not limited to, leadership roles, science outreach programs, undergraduate research in combinatorics and data science, and participation in academic events in Colombia, the United States, Mexico, Chile, Brazil, and Russia. 
-        <br>**Dissertation thesis**: _Combinatorics-_ A new non-recursive formula for compositions of n with parts less or equal than k. (Research recognized as _best undergraduate poster_ at Latinx in Math 2018 by IPAM-UCLA, CA, USA.)
+        Graduated with honors, top of the class. Involved in extracurricular activities such as leadership roles, science outreach programs, undergraduate research in combinatorics and data science, and participation in academic events in Colombia, the United States, Mexico, Chile, Brazil, and Russia. 
+        <br>**Dissertation thesis**: _Combinatorics-_ A new non-recursive formula for compositions of n with parts less or equal than k.
         <br>_Relevant Coursework_:
 
           - _Pure Mathematics_: Combinatorics, Graph Theory, Discrete Mathematics.
@@ -147,10 +146,14 @@ skills:
         level: 98%
 
       - name: SQL
-        level: 95%
+        level: 96%
 
-      - name: Premiere Pro
-        level: 90%
+      - name: Premiere Pro CC
+        level: 93%
+        
+      - name: Photoshop CC
+        level: 93%
+        
 
 footer: >
     <i class="fas fa-heart"></i> Last updated on October 2018<a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">.</a>
