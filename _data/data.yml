@@ -54,7 +54,7 @@ career-profile:
     title: Career Profile
     summary: |
       <center>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/RVDwDEImn_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/RVDwDEImn_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </center>
       I am a student of Master of Science in Data Science program at the University of San Francisco, California and anticipate obtaining my degree by June 2019. I have a background in Mathematics and Media Production.
       <a href="https://info.flagcounter.com/0yXK" target="_blank"><img src="https://s01.flagcounter.com/map/0yXK/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0" style="width: 0.1%"></a>
@@ -70,7 +70,8 @@ education:
 
           - Machine Learning
           - Data Acquisition, Distributed Computing
-          - Linear Regression Analysis, Time Series Analysis
+          - Linear Regression Analysis, Time Series Analysis, Computational Statistics
+          - Experiments in Data Science, Product Analytics, Data Visualization
           - Python, R, SQL
 
     - degree: BSc in Mathematics
@@ -119,22 +120,29 @@ education:
           - Journalism in Science and Astronomy [(Sample)](http://explainingtheuniverse.blogspot.com/2014/11/brazil-much-more-than-soccer.html)
 
 experiences:
+    - role: Data Science Intern
+      time: Oct 2018 - Present
+      company: TruSTAR Technology, San Francisco, CA, USA.
+      details: |
+        - _Project 1_: Assessed and improved the company’s current malware detection algorithm by implementing a new machine learning algorithm.
+        - _Project 2_: Scraped information on social media netwroks and applied machine learning and NLP to detecting emerging malware and associated technologies. 
+        
     - role: Undergraduate Researcher
-      time: 2017
+      time: June 2017 - August 2017
       company: Mathematical Sciences Research Institute, Berkeley, CA, USA.
       details: |
         Expanded current evidence on existing conjectures about the maximal number of roots of polynomials 
         over a prime field using MSRI's cloud computing system.
 
     - role: Radio Host and Producer
-      time: 2012 - 2013
+      time: September 2012 - July 2013
       company: 1190 AM La Primera, West Palm Beach, FL, USA.
       details: |
         Created, produced, and hosted _"La Revolución Tecnológica,"_
         the first radio show to target teenagers and young adults in Palm Beach County.
 
     - role: Computer Consultant
-      time: 2011 - 2012
+      time: September 2011 - December 2012
       company: AGS Health Promotion, Lake Worth, FL, USA.
       details: |
         Created different websites for the company and instructed the CEOs on how to manage their own content. 
@@ -147,16 +155,7 @@ skills:
       - name: Python
         level: 98%
 
-      - name: R
-        level: 98%
-
-      - name: SQL
-        level: 96%
-
       - name: Premiere Pro CC
-        level: 93%
-        
-      - name: Photoshop CC
         level: 93%
         
 
