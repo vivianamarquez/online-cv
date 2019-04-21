@@ -64,8 +64,7 @@ experiences:
       time: Oct 2018 - Present
       company: TruSTAR Technology, San Francisco, CA, USA.
       details: |
-        - _Project 1_: Assessed and improved the company’s current malware detection algorithm by implementing a new machine learning algorithm.
-        - _Project 2_: Scraped information on social media netwroks and applied machine learning and NLP to detecting emerging malware and associated technologies. 
+        Created algorithm that automatically fetches tweets about malware and built Machine Learning and NLP model to retrieve emerging malware names with 91% accuracy. The project delivers information about recent trending threat factors in an easy-to-digest visualization to users. 
         
     - role: Standarized Test Question Writer	
       time: Jan 2017 - Jun 2017 / Jan 2018 - Jun 2018
@@ -79,6 +78,12 @@ experiences:
       details: |
         Expanded current evidence on existing conjectures about the maximal number of roots of polynomials 
         over a prime field using MSRI's cloud computing system.
+        
+    - role: Radio Host and Producer
+      time: Jul 2013 - Jan 2015
+      company: Konradio.co, Bogotá, Colombia.
+      details: |
+        Produced and hosted "It's math time!" and "Astronomically Speaking", science outreach radio shows aimed to the general public broadcasted every week for one hour each.
 
     - role: Radio Host and Producer
       time: Sep 2012 - Jul 2013
