@@ -60,7 +60,10 @@ career-profile:
       <a href="https://info.flagcounter.com/0yXK" target="_blank"><img src="https://s01.flagcounter.com/map/0yXK/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0" style="width: 0.1%"></a>
       
 experiences:
-    - role: [(visit this link)](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view)
+    - role: 
+      time: 
+      company: 
+      details: [(visit this link)](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view)
 
 education:
     - degree: MSc in Data Science
