@@ -60,44 +60,7 @@ career-profile:
       <a href="https://info.flagcounter.com/0yXK" target="_blank"><img src="https://s01.flagcounter.com/map/0yXK/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0" style="width: 0.1%"></a>
       
 experiences:
-    - role: Data Science Intern
-      time: Oct 2018 - Present
-      company: TruSTAR Technology, San Francisco, CA, USA.
-      details: |
-        Created algorithm that automatically fetches tweets about malware and built Machine Learning and NLP model to retrieve emerging malware names with 91% accuracy. The project delivers information about recent trending threat factors in an easy-to-digest visualization to users. 
-        
-    - role: Standarized Test Question Writer	
-      time: Jan 2017 - Jun 2017 / Jan 2018 - Jun 2018
-      company: Corpoeducación ICFES, Bogotá, Colombia.
-      details: |
-        Wrote questions for the mathematical portion of the ICFES Test (the Colombian equivalent of the American SAT Reasoning Test).
-        
-    - role: Undergraduate Researcher
-      time: Jun 2017 - Aug 2017
-      company: Mathematical Sciences Research Institute, Berkeley, CA, USA.
-      details: |
-        Expanded current evidence on existing conjectures about the maximal number of roots of polynomials 
-        over a prime field using MSRI's cloud computing system.
-        
-    - role: Radio Host and Producer
-      time: Jul 2013 - Jan 2015
-      company: Konradio.co, Bogotá, Colombia.
-      details: |
-        Produced and hosted "It's math time!" and "Astronomically Speaking", science outreach radio shows aimed to the general public broadcasted every week for one hour each.
-
-    - role: Radio Host and Producer
-      time: Sep 2012 - Jul 2013
-      company: 1190 AM La Primera, West Palm Beach, FL, USA.
-      details: |
-        Created, produced, and hosted _"La Revolución Tecnológica,"_
-        the first radio show to target teenagers and young adults in Palm Beach County.
-
-    - role: Computer Consultant
-      time: Sep 2011 - Dec 2012
-      company: AGS Health Promotion, Lake Worth, FL, USA.
-      details: |
-        Created different websites for the company and instructed the CEOs on how to manage their own content. 
-        Developed different media pieces (logos, videos, images) for promotion. Managed social networks and generated brand online visibility (SEO).
+    - role: [(visit this link)](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view)
 
 education:
     - degree: MSc in Data Science
